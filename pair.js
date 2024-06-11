@@ -72,6 +72,8 @@ ______________________________________
 ║❒ *WaGroup:* _https://chat.whatsapp.com/CibIQyQI3Em1HbUD0aVXez
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 ║❒ *Plugins:* _https://github.com/malvinking/Speed-md-PLUGINS_
+║❒ **Insta**:*
+_https://www.instagram.com/malvinking20_
 ╚════════════════════════╝
 _____________________________________
 
