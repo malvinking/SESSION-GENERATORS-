@@ -68,10 +68,10 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@speedtechi_
 ║❒ *Owner:* _https://wa.me/263780934873
-║❒ *Repo:* _https://github.com/malvinking/Speed-md
+║❒ *Repo:* _https://github.com/malvinking/Fornix-MD_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/CibIQyQI3Em1HbUD0aVXez
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
-║❒ *Plugins:* _https://github.com/malvinking/Speed-md-PLUGINS_
+║❒ *Plugins:* _https://github.com/malvinking/Fornix-MD-PLUGINS_
 ║❒ **Insta**:*
 _https://www.instagram.com/malvinking20_
 ╚════════════════════════╝
